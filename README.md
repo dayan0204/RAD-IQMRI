@@ -1,6 +1,10 @@
 # RAD-IQMRI: A Benchmark for MRI Image Quality Assessment
 
-Official repository for the RAD-IQMRI radiologist-rated MRI image quality assessment benchmark dataset and related documentation.
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neucom.2024.128292-blue)](https://doi.org/10.1016/j.neucom.2024.128292)
+
+Official dataset repository for the RAD-IQMRI radiologist-rated MRI image quality assessment benchmark.
+
+---
 
 ## 📄 Paper
 
@@ -8,10 +12,10 @@ Yueran Ma, Jianxun Lou, Jean-Yves Tanguy, Padraig Corcoran, Hantao Liu
 RAD-IQMRI: A Benchmark for MRI Image Quality Assessment  
 Neurocomputing, 2024
 
-Journal page:
+Journal page:  
 https://www.sciencedirect.com/science/article/pii/S0925231224010634
 
-DOI:
+DOI:  
 https://doi.org/10.1016/j.neucom.2024.128292
 
 ---
@@ -86,6 +90,8 @@ Due to controlled-use and ethical requirements, the dataset is **not directly di
 
 Access is provided upon request for academic non-commercial research.
 
+This access model is consistent with the Data Availability statement in the published paper.
+
 ### Request Procedure
 
 1. Download and complete the agreement form:
@@ -96,7 +102,7 @@ Access is provided upon request for academic non-commercial research.
 
 3. Send the signed PDF to:
 
-   **[mayueranmyr@gmail.com]**
+   **mayueranmyr@gmail.com**
 
 4. Approved applicants will receive dataset access instructions.
 
@@ -124,7 +130,7 @@ All images are de-identified.
 
 ## Citation
 
-If you use the RAD-IQMRI dataset, please cite:
+If you use the RAD-IQMRI dataset or MOS labels in your work, please cite:
 
 @article{ma2024rad,
   title={RAD-IQMRI: A benchmark for MRI image quality assessment},
@@ -156,7 +162,5 @@ Data will be made available on request.
 
 ## Contact
 
-Dataset access requests and questions:
-
-[Yueran Ma]  
-[mayueranmyr@gmail.com]
+Yueran Ma  
+Email: mayueranmyr@gmail.com
