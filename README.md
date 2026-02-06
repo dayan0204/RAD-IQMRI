@@ -2,11 +2,17 @@
 
 Official repository for the RAD-IQMRI radiologist-rated MRI image quality assessment benchmark dataset and related documentation.
 
-Paper:
+## 📄 Paper
 
 Yueran Ma, Jianxun Lou, Jean-Yves Tanguy, Padraig Corcoran, Hantao Liu  
 RAD-IQMRI: A Benchmark for MRI Image Quality Assessment  
 Neurocomputing, 2024
+
+Journal page:
+https://www.sciencedirect.com/science/article/pii/S0925231224010634
+
+DOI:
+https://doi.org/10.1016/j.neucom.2024.128292
 
 ---
 
